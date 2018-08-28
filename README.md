@@ -7,4 +7,5 @@ first repository, just to try things
 - Labeling, Clear methods in lab notebook
 - I majored in Chemistry 
 
-- james was here. 
+
+- Hi Maura! My name is James Klimavicz and I work in your lab and actually sit in the desk next to you in the office in ATRB.
