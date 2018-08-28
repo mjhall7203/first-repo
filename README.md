@@ -6,3 +6,5 @@ first repository, just to try things
 - Pollen Extraction, LC-MS/MS anlaysis, Presenation at Conference
 - Labeling, Clear methods in lab notebook
 - I majored in Chemistry 
+
+- james was here. 
